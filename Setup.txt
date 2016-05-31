@@ -1,0 +1,9 @@
+::SETUP FOR C++::
+
+1) Visual Studio Express 2015
+2) New Project
+3) Visual C++/ Win32 Console Application/Name of file
+4) Empty Project/ Create 
+5)Click Source files
+6)New item
+7) C++ file
